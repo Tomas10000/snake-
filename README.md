@@ -1,3 +1,3 @@
-# stunning-pancake
+# snake game
 
 Game snake
